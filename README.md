@@ -22,7 +22,7 @@ student_record_db/<br>
 ---
 
 ## 🚀 Getting Started
-
+https://github.com/user-attachments/assets/b5f8dd54-bfd9-4e38-becf-3d11b933a50a
 ### 🔧 Prerequisites
 
 - Python 3.8+
@@ -39,4 +39,6 @@ student_record_db/<br>
 ```bash
    pip install -r requirements.txt
    python app.py
+
+
 
