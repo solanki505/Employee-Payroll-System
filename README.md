@@ -1,5 +1,5 @@
 # 🧾 Employee Payroll System
-Developed by Solanki Sarkar
+Developed by Solanki Sarkar<br>
 A simple web-based application built with Python and Flask to manage employee records, including the ability to:
 
 - 🔍 Search employee data by various attributes (like name, department, etc.)
