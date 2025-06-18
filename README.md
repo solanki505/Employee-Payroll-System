@@ -10,13 +10,14 @@ A simple web-based application built with Python and Flask to manage employee re
 
 ## 📁 Project Structure
 
-student_record_db/
+student_record_db/<br>
 ├── app.py # Main Flask backend application
-├── requirements.txt # Python dependencies
-├── templates/
-│ └── index.html # Frontend HTML template
-├── static/
-│ └── style.css # CSS styling
+<br>
+├── requirements.txt # Python dependencies<br>
+├── templates/<br>
+│ └── index.html # Frontend HTML template<br>
+├── static/<br>
+│ └── style.css # CSS styling<br>
 
 ---
 
