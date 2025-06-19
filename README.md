@@ -14,8 +14,8 @@ student_record_db/<br>
 ├── app.py # Main Flask backend application
 <br>
 ├── requirements.txt # Python dependencies<br>
-├──   queries.sql <br>
-├──database.db<br>
+├── queries.sql <br>
+├── employee.db<br>
 ├── templates/<br>
 │ └── index.html # Frontend HTML template<br>
 ├── static/<br>
